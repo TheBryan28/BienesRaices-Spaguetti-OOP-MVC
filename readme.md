@@ -1,6 +1,7 @@
-# FullStack Projects
+# Bienes Raices Proyect
 This repository contains the same REAL ESTATE project.
-The first with spaghetti architecture, then with object-oriented programming architecture (OOP) and lastly with Model View Controller (MVC).
+This website contains houses for sale, it has a dark mode, a contact form via email, these houses can be modified and deleted by the administrator role from a credential interface by entering /admin
+The first folder contains spaghetti architecture, then we have object-oriented programming (OOP) architecture, and finally Model View Controller (MVC).
 
 You can view the website through the following link. all thanks to InfinityFree Web Hosting.
 http://bienesraices-bryan.great-site.net/
